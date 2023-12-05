@@ -10,3 +10,4 @@ C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Domain\obj
 C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\refint\BuberDinner.Domain.dll
 C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.pdb
 C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\ref\BuberDinner.Domain.dll
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.sourcelink.json

@@ -48,3 +48,11 @@ C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\De
 C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\ErrorOr.dll
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\MediatR.dll
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\BuberDinner.Api.sourcelink.json
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Mapster.dll
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Mapster.Core.dll
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Mapster.DependencyInjection.dll
