@@ -32,7 +32,7 @@ namespace BuberDinner.Application.Authentication.Commands.Register
             {
                 return Errors.User.DuplicateEmail;
             }
-            var user = new User
+             var user = new User
             {
 
                 FirstName = command.FirstName,
