@@ -7,10 +7,12 @@ using ErrorOr;
 using Microsoft.AspNetCore.Mvc;
 using BuberDinner.Api.Common.Http;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
+using Microsoft.AspNetCore.Authorization;
 
 namespace BuberDinner.Api.Controllers
 {
     [ApiController]
+    [Authorize]
     public class ApiController : ControllerBase
     {
         protected IActionResult Problem(List<Error> errors)
