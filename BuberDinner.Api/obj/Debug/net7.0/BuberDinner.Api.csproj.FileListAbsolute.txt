@@ -56,3 +56,9 @@ C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\obj\De
 C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Mapster.dll
 C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Mapster.Core.dll
 C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Mapster.DependencyInjection.dll
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ahmet\OneDrive\Masaüstü\YtProjects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
